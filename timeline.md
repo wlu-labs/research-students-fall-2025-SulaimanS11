@@ -6,4 +6,4 @@
 | **Coding & Implementation** | Week of Oct 20 | Week of Oct 27 | 2 weeks |
 | **Testing & Validation** | Week of Nov 3 | Week of Nov 10 | 2 weeks |
 | **Documentation** | Week of Nov 17 | Week of Nov 24 | 2 weeks |
-| **Buffer/Contingency** | Week of Dec 1 | Week of Dec 6 | 1 week |
+| **Contingency/Extra Week** | Week of Dec 1 | Week of Dec 6 | 1 week |
