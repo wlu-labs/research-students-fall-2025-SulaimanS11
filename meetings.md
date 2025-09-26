@@ -12,6 +12,7 @@ CPU‑bound simulations like DTUMOS do not benefit from Python’s threading lib
 I decided to choose project 3 for the digital twin team
 
 
+
 ## Meeting Information
 
 **Meeting Date/Time:** 12/09/2025, 4:00pm est  
@@ -30,6 +31,7 @@ thread level processing
 Mr. Sehra Advised me to look into these topics for my project
 
 
+
 ## Meeting Information
 
 **Meeting Date/Time:** 17/09/2025, 3:30pm est  
@@ -43,13 +45,14 @@ Complete Project Plan for Friday Meeting
 None
 
 
+
 ## Meeting Information
 
 **Meeting Date/Time:** 19/09/2025, 3:30pm est  
 ## Action Items due be due_date and allocation to responsible_name.
 
 [X] Action Item 1:
-
+Detailing next steps in the project
 
 [X] Action Item 2:  
 
@@ -57,3 +60,32 @@ None
 ## Other Notes & Information
 
 
+
+## Meeting Information
+
+**Meeting Date/Time:** 24/09/2025, 3:30pm est  
+## Action Items due be due_date and allocation to responsible_name.
+
+[X] Action Item 1:
+Run DTUMOS on local system
+
+[X] Action Item 2:  
+finish codebase review
+
+## Other Notes & Information
+Continue with optimization research and create a plan to detail the time complexity of files in the codebase
+
+
+
+## Meeting Information
+
+**Meeting Date/Time:** 26/09/2025, 4:30pm est  
+## Action Items due be due_date and allocation to responsible_name.
+
+[X] Action Item 1:
+Start calculating runtime analysis of each file in the codebase
+
+[X] Action Item 2:  
+
+
+## Other Notes & Information
