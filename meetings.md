@@ -6,7 +6,7 @@
 
 [X] Action Item 1:
 Multi-threaded programming to enhance the scalability of the DTUMOS: 
-CPU‑bound simulations like DTUMOS do not benefit from Python’s threading library. I think by adopting multiprocessing or compiled extensions, the DTUMOS project can overcome current scalability limitations and deliver faster, more responsive simulations.
+CPU‑bound simulations like DTUMOS do not benefit from Python’s threading library. I think by adopting paralell processing, multi threading, or compiled extensions, the DTUMOS project can overcome current scalability limitations and deliver faster, more responsive simulations.
 
 ### Other Notes & Information
 I decided to choose project 3 for the digital twin team
