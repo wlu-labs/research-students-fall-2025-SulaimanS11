@@ -116,6 +116,7 @@ Meeting with DR. Jiho
 advice for optimization and discussion of project
 
 [X] Action Item 2:  
-
+- 2 approaches, python, or switch over to rust
+- abstreet.uk for rust code simulations
 
 ### Other Notes & Information
