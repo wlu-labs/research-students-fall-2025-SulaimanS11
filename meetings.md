@@ -89,3 +89,33 @@ Start calculating runtime analysis of each file in the codebase
 
 
 ### Other Notes & Information
+
+
+
+## Meeting Information
+
+**Meeting Date/Time:** 01/10/2025, 3:30pm est  
+### Action Items due be due_date and allocation to responsible_name.
+
+[X] Action Item 1:
+Completing analysis of codebase
+
+[X] Action Item 2:  
+look into softwares for breakdown of codebase
+
+### Other Notes & Information
+
+
+
+## Meeting Information
+Meeting with DR. Jiho
+**Meeting Date/Time:** 02/10/2025, 3:30pm est  
+### Action Items due be due_date and allocation to responsible_name.
+
+[X] Action Item 1:
+advice for optimization and discussion of project
+
+[X] Action Item 2:  
+
+
+### Other Notes & Information
