@@ -8,7 +8,7 @@
 Multi-threaded programming to enhance the scalability of the DTUMOS: 
 CPU‑bound simulations like DTUMOS do not benefit from Python’s threading library. I think by adopting paralell processing, multi threading, or compiled extensions, the DTUMOS project can overcome current scalability limitations and deliver faster, more responsive simulations.
 
-### Other Notes & Information
+#### Other Notes & Information
 I decided to choose project 3 for the digital twin team
 
 
@@ -27,7 +27,7 @@ python programming for multi threaded application
 [X] Action Item 3:  
 thread level processing
 
-### Other Notes & Information
+#### Other Notes & Information
 Mr. Sehra Advised me to look into these topics for my project
 
 
@@ -41,7 +41,7 @@ Mr. Sehra Advised me to look into these topics for my project
 Complete Project Plan for Friday Meeting
 
 
-### Other Notes & Information
+#### Other Notes & Information
 None
 
 
@@ -57,7 +57,7 @@ Detailing next steps in the project
 [X] Action Item 2:  
 
 
-### Other Notes & Information
+#### Other Notes & Information
 
 
 
@@ -72,7 +72,7 @@ Run DTUMOS on local system
 [X] Action Item 2:  
 finish codebase review
 
-### Other Notes & Information
+#### Other Notes & Information
 Continue with optimization research and create a plan to detail the time complexity of files in the codebase
 
 
@@ -88,7 +88,7 @@ Start calculating runtime analysis of each file in the codebase
 [X] Action Item 2:  
 
 
-### Other Notes & Information
+#### Other Notes & Information
 
 
 
@@ -103,7 +103,7 @@ Completing analysis of codebase
 [X] Action Item 2:  
 look into softwares for breakdown of codebase
 
-### Other Notes & Information
+#### Other Notes & Information
 
 
 
@@ -119,7 +119,7 @@ advice for optimization and discussion of project
 - 2 approaches, python, or switch over to rust
 - abstreet.uk for rust code simulations
 
-### Other Notes & Information
+#### Other Notes & Information
 
 
 ## Meeting Information
@@ -133,7 +133,7 @@ Create function count analysis script to find performance bottlenecks.
 [X] Action Item 2:  
 Dependency graphs to see what module is calling what.
 
-### Other Notes & Information
+#### Other Notes & Information
 
 
 
@@ -148,7 +148,7 @@ Created a dynamic function call count script
 [X] Action Item 2:  
 
 
-### Other Notes & Information
+#### Other Notes & Information
 
 
 ## Meeting Information
@@ -162,7 +162,7 @@ Discussed DTUMOS roadblocker
 [X] Action Item 2:  
 Talked about optimiztion steps
 
-### Other Notes & Information
+#### Other Notes & Information
 
 
 ## Meeting Information
@@ -176,4 +176,4 @@ Showed **Code2Flow** function flow graph and **Tach** dependecy graph chart
 [X] Action Item 2:  
 Discussed that I should get the dynamic function call analysis completed and start working on optimizing the most performance-impeding file.
 
-### Other Notes & Information
+#### Other Notes & Information
