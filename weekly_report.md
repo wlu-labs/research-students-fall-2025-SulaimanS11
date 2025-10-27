@@ -19,7 +19,9 @@ Key strategic developments occurred during our meetings:
 
 My work this week has solidified the technical direction of the project, moving from analysis into concrete optimization planning.
 
-### Week 5 (Date:   )
+### Week 5 (Date: Oct 6 - 10))
+This week marked the completion of the foundational static analysis and the transition to preparing for dynamic analysis. I successfully finished the time complexity analysis for the remaining files in the DTUMOS codebase and ensured the platform was fully set up to run on my system. Along with that, I began refamiliarizing myself with the fundamentals of Rust and best practices for parallel processing, following the guidance received last week.
 
+During the Wednesday meeting, Dr. Sehra advised that a dynamic analysis of the system—specifically, measuring which functions are called and how often—would be an invaluable asset for precisely identifying performance bottlenecks. I dedicated the latter half of the week to designing and structuring the implementation plan for this dynamic profiling. This includes determining whether to go with a tool or a script I create that would outline the required code structure and capture runtime frequency and load data. This dynamic data will be crucial for validating my static analysis and directing the subsequent optimization efforts.
 
 ### Week 6 (Date:   )
