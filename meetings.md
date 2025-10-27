@@ -120,3 +120,60 @@ advice for optimization and discussion of project
 - abstreet.uk for rust code simulations
 
 ### Other Notes & Information
+
+
+## Meeting Information
+Wednesday meeting
+**Meeting Date/Time:** 08/10/2025, 3:30pm est  
+### Action Items due be due_date and allocation to responsible_name.
+
+[X] Action Item 1:
+Create function count analysis script to find performance bottlenecks. 
+
+[X] Action Item 2:  
+Dependency graphs to see what module is calling what.
+
+### Other Notes & Information
+
+
+
+## Meeting Information
+Friday meeting
+**Meeting Date/Time:** 10/10/2025, 4:30pm est  
+### Action Items due be due_date and allocation to responsible_name.
+
+[X] Action Item 1:
+Created a dynamic function call count script
+
+[X] Action Item 2:  
+
+
+### Other Notes & Information
+
+
+## Meeting Information
+Wednesday meeting
+**Meeting Date/Time:** 22/10/2025, 3:30pm est  
+### Action Items due be due_date and allocation to responsible_name.
+
+[X] Action Item 1:
+Discussed DTUMOS roadblocker 
+
+[X] Action Item 2:  
+Talked about optimiztion steps
+
+### Other Notes & Information
+
+
+## Meeting Information
+Friday meeting
+**Meeting Date/Time:** 24/10/2025, 4:30pm est  
+### Action Items due be due_date and allocation to responsible_name.
+
+[X] Action Item 1:
+Showed **Code2Flow** function flow graph and **Tach** dependecy graph chart
+
+[X] Action Item 2:  
+Discussed that I should get the dynamic function call analysis completed and start working on optimizing the most performance-impeding file.
+
+### Other Notes & Information
