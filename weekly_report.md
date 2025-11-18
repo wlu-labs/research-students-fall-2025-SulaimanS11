@@ -49,3 +49,16 @@ The solution involved a strategic architectural change: replacing the sequential
 
 This successful transition to batch processing validates the project's optimization goals and sets the stage for resolving the remaining logical issues before final integration.
 
+### Week 9 (Date: Nov 3 - 7)
+
+This week was dedicated to **knowledge transfer and documentation** following the major OSRM optimization. I comprehensively updated my project **Wiki page**, ensuring all critical analytical data was cataloged and easily accessible. This documentation now includes all the artifacts from the static analysis phase, including the **Codebase Analysis Graphs** (Code2flow, Pyan-uses, Pyan-define, Pyan-full, and Pyreverse), alongside detailed notes on my initial **DTUMOS Runtime Optimization findings** regarding the OSRM batch call implementation. This work ensures that all foundational analysis and breakthrough optimization data are formally recorded.
+
+### Week 10 (Date: Nov 10 - 14)
+
+This week was dedicated to **debugging and validating** the significant performance optimization achieved through the OSRM Matrix API implementation.
+
+I successfully implemented a **fix** that resolved the abnormal vehicle behaviors noted in the previous week, bringing the logistical behavior of the simulation into close alignment with the expected results, and specifically, the completion graph sent by Mubarrat.
+
+* **Runtime Adjustment:** While this fix enhanced the logical correctness, it slightly increased the runtime of DTUMOS. The simulation time adjusted from **2 minutes and 21 seconds** to **5 minutes and 29 seconds**. This adjustment is considered acceptable, as it reflects the necessary computational steps for **accurate vehicle behavior** and prioritizes integrity over raw speed.
+
+This work ensures the optimization is not only fast but also **logically sound** before moving into the final stages of the project.
